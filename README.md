@@ -17,5 +17,5 @@ User provided no info
 -->
 ### yup, that's my github page.
 - 📏 intuitive UI design
-- 🖋️ complex frontend develeopment
+- 🖋️ comprehensible webdev
 - 🌱 quality of life instruments
