@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 User provided no info
 -->
 ### yup, that's my github page.
+- 📏 intuitive UI design
+- 🖋️ complex frontend develeopment
+- 🌱 quality of life instruments
