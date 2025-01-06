@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 User provided no info
 -->
-### yup, that's my github page.
-- 📏 intuitive UI design
-- 🖋️ comprehensible webdev
-- 🌱 quality of life instruments
+| 💭 | the place for... |
+|---|---|
+| 💡 | intuitive **UI design** |
+| ⚙️ | comprehensible **webdev** |
+| 🌱 | **quality of life** instruments |
